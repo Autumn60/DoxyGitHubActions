@@ -1,0 +1,5 @@
+# Doxyfile
+
+PROJECT_NAME           = "DoxyGithubActions"
+OUTPUT_DIRECTORY       = docs
+JAVADOC_AUTOBRIEF      = YES
